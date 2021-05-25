@@ -1,0 +1,7 @@
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\bin\Debug\Calculodeingestao.exe.config
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\bin\Debug\Calculodeingestao.exe
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\bin\Debug\Calculodeingestao.pdb
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\obj\Debug\Calculodeingestao.csprojAssemblyReference.cache
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\obj\Debug\Calculodeingestao.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\obj\Debug\Calculodeingestao.exe
+C:\Users\Pedro Barros\Documents\Curso C#\Calculodeingestao\Calculodeingestao\obj\Debug\Calculodeingestao.pdb
